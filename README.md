@@ -1,4 +1,4 @@
-## Hello, My name is hyeongu kang 👋
+### Hello World 👋
 
 ### PROFILE
 - Hanyang Tech.HighSchool (Graduated)
