@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/gusrns48)](https://www.facebook.com/gusrns48) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taorm_hyeon9/)](https://www.instagram.com/taorm_hyeon9/) 
 
-##### Please contact me by email.
+##### -Please contact me by email-
