@@ -1,7 +1,8 @@
-### Hi there 👋
-### KwangWoon Univ. Faculty of Software(Application Software Major) sophomore.
+### Hello, world 👋
 
-### Please contact me by email.
+# KwangWoon Univ. Faculty of Software(Application Software Major) sophomore.
+
+# Please contact me by email.
 
 <!--
 **kinghyeongu/kinghyeongu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
