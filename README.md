@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ![kinghyeongu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghyeongu&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghyeongu&layout=compact)](https://github.com/kinghyeongu/github-readme-stats)
+![kinghyeongu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghyeongu&count_private=trueshow_icons=true&theme=dracula&)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghyeongu&layout=compact)](https://github.com/kinghyeongu/github-readme-stats&hide=prs,issues,contribs)
 
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/gusrns48)](https://www.facebook.com/gusrns48) 
