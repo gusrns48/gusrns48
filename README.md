@@ -1,8 +1,11 @@
-## Hello, world 👋
+## Hello, My name is hyeongu kang 👋
 
-### My name is hyeongu kang�
-- KwangWoon Univ.
+### PROFILE
+- Hanyang Tech.HighSchool (Graduated)
+- KwangWoon Univ. (Attending)
 - Faculty of Software(Application Software Major) sophomore.
+- 2001.08.10
+- 
 
 <!--
 **kinghyeongu/kinghyeongu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
