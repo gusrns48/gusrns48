@@ -1,6 +1,6 @@
-## Hello, world
+## Hello, world 👋
 
-###My name is hyeongu kang👋
+### My name is hyeongu kang�
 - KwangWoon Univ.
 - Faculty of Software(Application Software Major) sophomore.
 
