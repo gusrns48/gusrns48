@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![kinghyeongu's github stats](https://github-readme-stats.vercel.app/api?username=kinghyeongu&show_icons=true)
 
-[![kinghyeongu.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinghyeongu)](https://solved.ac/kinghyeongu)
+![kinghyeongu's github stats](https://github-readme-stats.vercel.app/api?username=kinghyeongu&show_icons=true)
