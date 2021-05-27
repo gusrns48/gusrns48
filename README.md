@@ -1,4 +1,4 @@
-### Hello World 👋
+## Hello World 👋
 
 ### PROFILE
 - Hanyang Tech.HighSchool (Graduated)
