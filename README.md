@@ -1,6 +1,6 @@
 # Hello World 👋
 
-### PROFILE
+### MINI PROFILE
 - Hanyang Tech.HighSchool (Graduated)
 - KwangWoon Univ. (Attending)
 - Faculty of Software(Application Software Major) sophomore.
