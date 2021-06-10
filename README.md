@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghyeongu&layout=compact)](https://github.com/kinghyeongu/github-readme-stats)
 
 [![Facebook Badge](https://img.shields.io/badge/-gusrns48-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/gusrns48)](https://www.facebook.com/gusrns48) 
-[![Instagram Badge](https://img.shields.io/badge/-taorm_hyeon9-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taorm_hyeon9/)](https://www.instagram.com/taorm_hyeon9/) 
+[![Instagram Badge](https://img.shields.io/badge/-taorm_hyeon9-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rkdgus9/)](https://www.instagram.com/rkdgus9/) 
 
 ##### -Please contact me by email-
