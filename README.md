@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![gusrns48's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusrns48&show_icons=true&theme=dracula&hide=issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrns48&langs_count=8&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrns48&langs_count=8&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrns48&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrns48&&langs_count=8&layout=compact&theme=dracula)
 
 [![Facebook Badge](https://img.shields.io/badge/-gusrns48-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/gusrns48)](https://www.facebook.com/gusrns48) 
 
