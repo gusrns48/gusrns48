@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ![gusrns48's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusrns48&show_icons=true&theme=dracula&hide=issues)
 
+![lank](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrns48)
+
 [![Facebook Badge](https://img.shields.io/badge/-gusrns48-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/gusrns48)](https://www.facebook.com/gusrns48) 
 [![Instagram Badge](https://img.shields.io/badge/-rkdgus_9-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rkdgus_9/)](https://www.instagram.com/rkdgus_9/) 
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=gusrns48)
 
 ##### -Please contact me by email-
