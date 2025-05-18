@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgusrns48&count_bg=%238738FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![gusrns48's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusrns48&show_icons=true&theme=dracula&hide=issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrns48&langs_count=8&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrns48&langs_count=8&layout=compact&theme=dracula)
