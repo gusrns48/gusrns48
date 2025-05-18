@@ -3,7 +3,7 @@
 ### MINI PROFILE
 - Hanyang Tech.HighSchool (Graduated)
 - KwangWoon Univ. Attending.
-- Faculty of Software(Application Software Major) junior.
+- Faculty of Software(Application Software Major) senior.
 - Onoffmix Team MICE(Front-End Devloper) 22/01 ~ 24/02
 <!--
 **gusrns48/gusrns48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
